@@ -12,6 +12,15 @@ body {
     margin: 0;
 }
 
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1px;
+    margin: 20px;
+}
+
 label {
     font-weight: 700;
     font-size: 16px;
