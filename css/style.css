@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,700;1,700&family=Rowdies:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rowdies', cursive;
+    background-color: #202124;
+    padding: 0;
+    margin: 0;
+}
+
+label {
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFF;
+    padding-left: 10px;
+    line-height: 1.5;
+}
+
+input {
+    border-radius: 15px;
+    border: 2px solid #3c4043;
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 5px 10px 5px 10px;
+    background-color: #303134;
+}
